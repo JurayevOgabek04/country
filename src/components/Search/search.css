@@ -1,0 +1,26 @@
+.input {
+  padding: 19px 32px;
+  border: none;
+  width: 480px;
+  box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+  border-radius: 5px;
+}
+.form-select {
+  width: 200px;
+  border: none;
+  padding: 18px 77px 18px 25px;
+  box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+  border-radius: 5px;
+}
+
+.form-select:active,
+.form-select:hover,
+.form-select:checked {
+  border: 0px solid white;
+}
+.search-box {
+  margin-top: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
